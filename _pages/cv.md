@@ -1,74 +1,37 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Riya Guttigoli - Curriculum Vitae
 permalink: /cv/
 ---
+
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+<iframe
+  src="{{ '/assets/CV.pdf' | relative_url }}"
+  style="
+    width:95%;
+    max-width:1100px;
+    aspect-ratio:9/8;
+    height:auto;
+    border:none;
+    border-radius:0.75rem;
+    background-color:#fff;
+    box-shadow:0 2px 10px rgba(0,0,0,0.08);
+    display:block;
+    margin:0 auto 1rem auto;">
+</iframe>
+
+<div style="text-align:center;">
+  <a href="{{ '/assets/CV.pdf' | relative_url }}"
+     target="_blank"
+     style="font-size:1rem; text-decoration:none; color:#0077cc;">
+     Download PDF →
+  </a>
+</div>
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
-
----
-
-#### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
-
----
-
-#### Education
-- **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
-
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
-
----
-
-#### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
-
----
-
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
----
-
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
-
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
----
-
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
-
----
-
-#### References
-Available upon request.
-
----
+<p style="text-align:center;">
+  <strong>Email:</strong> <a href="mailto:rag323@cornell.edu">rag323@cornell.edu</a>
+  &nbsp; | &nbsp;
+  <strong>Phone:</strong> +1 469 994 6557
+</p>

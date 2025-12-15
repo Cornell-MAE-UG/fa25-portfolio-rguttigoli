@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Riya Guttigoli
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
+name                     : Riya Guttigoli
+description              : Riya Guttigoli- Projects and CV 
 baseurl                  : "" # Set this to your repo name 
 
 # Theme and Style
